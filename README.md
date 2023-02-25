@@ -1,4 +1,4 @@
-<img align="right" width="250px" style="margin-top:-20px" src="https://i.ibb.co/H2Vnn9B/photo-2021-12-23-11-04-10-removebg-preview.png">
+<img align="right" width="250px" style="margin-top:-20px" src="">
 
 </br>
 </br>
@@ -18,7 +18,7 @@
 Tenho 42 anos, moro em Natal/RN sou um intusiasta por programação e café! Sou iniciante no universo da programação, formado em Análise e Desenvolvimento de Sistemas e em transição de carreira, e quanto mais eu aprendo e passo raiva, mais eu amo tuda essa bagaça!
 
 <p align="center">
-  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
+  <img src="" width="350">
 </p>
 
 ### 🖥️ Tecnologias e Ferramentas: 
@@ -28,9 +28,9 @@ Tenho 42 anos, moro em Natal/RN sou um intusiasta por programação e café! Sou
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  title = "PYTHON"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title = "DJANGO"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title = "POSTGRESQL"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  title = "PYTHON"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title = "DJANGO"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title = "POSTGRESQL"/></code>
 </br>
 </br>
 <div display="inline-block">

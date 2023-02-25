@@ -1,4 +1,4 @@
-<img align="right" width="250px" style="margin-top:-20px" src="">
+<img align="right" width="250px" style="margin-top:-20px" src="https://myoctocat.com/assets/images/octocats/octocat-20.png">
 
 </br>
 </br>
@@ -22,7 +22,7 @@ Tenho 42 anos, moro em Natal/RN sou um intusiasta por programação e café! Sou
 </p>
 
 ### 🖥️ Tecnologias e Ferramentas: 
-<img width="300px" align="right" src="">
+<img width="300px" align="right" src="https://myoctocat.com/assets/images/octocats/octocat-20.png">
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
@@ -47,11 +47,7 @@ Tenho 42 anos, moro em Natal/RN sou um intusiasta por programação e café! Sou
 📫 Você pode falar comigo pelo meu E-mail <a href="mailto:kelverwt@gmail.com">Kelver Alves</a>
 
 </br>
-
-<a href="https://www.instagram.com/jeniblo_dev" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
-<a href="https://twitter.com/jeniblo_dev" target="_blank"><img align="left" alt="Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
 <a href="https://www.linkedin.com/in/jeniffer-bittencourt" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
-<a href="https://dev.to/jeniblo_dev" target="_blank"><img alt="Blog" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dev-badge.svg" /></a>
 
 ##
 <p align="center">

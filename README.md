@@ -47,7 +47,7 @@ Tenho 42 anos, moro em Natal/RN sou um intusiasta por programação e café! Sou
 📫 Você pode falar comigo pelo meu E-mail <a href="mailto:kelverwt@gmail.com">Kelver Alves</a>
 
 </br>
-<a href="https://www.linkedin.com/in/jeniffer-bittencourt" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+<a href="https://www.linkedin.com/in/kelver-alves-rodrigues-7b6295bb/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
 
 ##
 <p align="center">

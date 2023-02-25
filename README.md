@@ -1,4 +1,4 @@
-<img align="right" width="250px" style="margin-top:-20px" src="https://myoctocat.com/assets/images/octocats/octocat-20.png" style="border-radius: 50%">
+<img align="right" width="250px" style="margin-top:-20px" src="[https://myoctocat.com/assets/images/octocats/octocat-20.png](https://infind.tech/wp-content/uploads/2020/11/desenvolvimento-analytics.png)" style="border-radius: 50%">
 
 </br>
 </br>

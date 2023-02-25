@@ -1,4 +1,4 @@
-<img align="right" width="250px" style="margin-top:-20px" src="https://www.google.com/url?sa=i&url=http%3A%2F%2Freinodezakharin.weebly.com%2Fsamurai.html&psig=AOvVaw2t0uCSx6aV8l88kDwhctol&ust=1677426654057000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNi06LCDsf0CFQAAAAAdAAAAABB6">
+<img align="right" width="250px" style="margin-top:-20px" src="https://myoctocat.com/assets/images/octocats/octocat-20.png">
 
 </br>
 </br>

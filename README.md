@@ -6,7 +6,7 @@
 <div dsplay="inline-block">
  
  <h1 align="left">Kelver Alves</h1>
-  <a href="https://www.linkedin.com/in/kelver-alves-rodrigues-7b6295bb/" target="_blank">
+  <a href="https://www.linkedin.com/in/kelver-alves-rodrigues-7b6295bb/"  target="_blank">
     <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
   </a>
 </div>

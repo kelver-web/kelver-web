@@ -1,4 +1,4 @@
-<img align="right" width="250px" style="margin-top:-20px" src="[https://myoctocat.com/assets/images/octocats/octocat-20.png](http://reinodezakharin.weebly.com/uploads/9/7/6/6/9766843/717735265.png)">
+<img align="right" width="250px" style="margin-top:-20px" src="https://www.google.com/url?sa=i&url=http%3A%2F%2Freinodezakharin.weebly.com%2Fsamurai.html&psig=AOvVaw2t0uCSx6aV8l88kDwhctol&ust=1677426654057000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNi06LCDsf0CFQAAAAAdAAAAABB6">
 
 </br>
 </br>
@@ -18,7 +18,7 @@
 Tenho 42 anos, moro em Natal/RN sou um intusiasta por programação e café! Sou iniciante no universo da programação, formado em Análise e Desenvolvimento de Sistemas e em transição de carreira, e quanto mais eu aprendo e passo raiva, mais eu amo tuda essa bagaça!
 
 <p align="center">
-  <img src="[https://myoctocat.com/assets/images/octocats/octocat-20.png](http://reinodezakharin.weebly.com/uploads/9/7/6/6/9766843/717735265.png)" width="350">
+  <img src="https://www.google.com/url?sa=i&url=http%3A%2F%2Freinodezakharin.weebly.com%2Fsamurai.html&psig=AOvVaw2t0uCSx6aV8l88kDwhctol&ust=1677426654057000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNi06LCDsf0CFQAAAAAdAAAAABB6" width="350">
 </p>
 
 ### 🖥️ Tecnologias e Ferramentas: 

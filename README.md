@@ -1,4 +1,4 @@
-<img align="right" width="250px" style="margin-top:-20px" src="https://infind.tech/wp-content/uploads/2020/11/desenvolvimento-analytics.png" style="border-radius: 50%">
+<img align="right" width="300px" style="margin-top:-20px" src="https://infind.tech/wp-content/uploads/2020/11/desenvolvimento-analytics.png">
 
 </br>
 </br>
@@ -22,7 +22,7 @@ Tenho 42 anos, moro em Natal/RN sou um intusiasta por programação e café! Sou
 </p>
 
 ### 🖥️ Tecnologias e Ferramentas: 
-<img width="300px" align="right" src="https://myoctocat.com/assets/images/octocats/octocat-20.png">
+<img width="300px" align="right" src="https://amicci.com.br/wp-content/themes/amicci/assets/images/desenvolvimento-tecnico-e-inovacao/art-intro-01.png">
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>

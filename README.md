@@ -34,7 +34,7 @@ Tenho 42 anos, moro em Natal/RN sou um intusiasta por programação e café! Sou
 </br>
 </br>
 <div display="inline-block">
- <p align="left">🤿 Faço parte da galera que está buscando uma oportunidade. <a href="https://pam.ws/">Plataforma Pam</a>;</p>
+ <p align="left">🤿 Faço parte da galera que está buscando uma oportunidade.</p>
  <p align="left">📚 Tenho estudado Python, Django e iniciei meus estudos para desenvolvedor web em 2020;</p>
  <p align="left">📚 Gosto de estudar, faço isso todos os dias, faz com que me sinta bem depois de um dia cansativo.</p>
  <p align="left">📺☕ Só acordo com uma boa xícara de café, adoro assistir séries (The last of us) a que mais gosto.</p>

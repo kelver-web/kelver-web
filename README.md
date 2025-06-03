@@ -15,39 +15,35 @@
 
 ## Hello, Devs!!
 
-👋 Olá, eu sou o Kelver Alves
+# 👋 Olá, eu sou o Kelver Alves!
 
-Sou programador com experiência no desenvolvimento de sistemas web. Tenho interesse em backend com Python/Django, APIs REST, e também atuo no frontend com React. Busco sempre escrever código limpo, escalável e bem documentado.
-<p align="center">
-  <img src="https://camo.githubusercontent.com/7ff31bf674c5358f243c50ad2d3709af50a98c28e1f478dcc898309b973a4099/68747470733a2f2f73757065722e616272696c2e636f6d2e62722f77702d636f6e74656e742f75706c6f6164732f323031362f30392f73757065725f696d676761746f5f6469676974616e646f5f302e676966" width="350">
-</p>
+Sou **programador** com foco em desenvolvimento de sistemas web. Apaixonado por transformar ideias em soluções funcionais, trabalho principalmente com **Python**, **Django** e **React**, construindo APIs robustas e interfaces modernas.
 
-### 🖥️ Tecnologias e Ferramentas:
-   <div>
-    <p>
-      Python, Django, Django REST Framework
-      JavaScript, React, Vite, Bootstrap
-      Git, GitHub, Postman
-      PostgreSQL, SQLite
-    </p>
-   </div>
-</br>
-</br>
-<div display="inline-block">
- <p align="left">🤿 Faço parte da galera que está buscando uma oportunidade.</p>
- <p align="left">📚 Tenho estudado Python, Django e iniciei meus estudos para desenvolvedor web em 2020;</p>
- <p align="left">📚 Gosto de estudar, faço isso todos os dias, faz com que me sinta bem depois de um dia cansativo.</p>
- <p align="left">📺☕ Só acordo com uma boa xícara de café, adoro assistir séries (The last of us) a que mais gosto.</p>
-</div>
+## 🛠️ Tecnologias e Ferramentas
+- 🐍 **Backend**: Python, Django, Django REST Framework  
+- 🌐 **Frontend**: JavaScript, React, Vite, Bootstrap  
+- 🧪 **Testes & APIs**: Postman, Django Test, Insomnia  
+- 🗃️ **Banco de Dados**: PostgreSQL, SQLite  
+- 🔧 **Ferramentas**: Git, GitHub, VS Code, Docker (iniciando)  
 
-</br>
+## 🚀 Projetos em Andamento
+- ERP para microempresa de esquadrias de alumínio  
+- Sistema de pedidos com filtros por data e clientes  
+- Integração full stack com autenticação JWT  
 
-</br>
+## 📚 Em constante evolução
+Atualmente focado em:
+- Aprimorar minha fluência em React com TypeScript  
+- Implementar testes automatizados mais robustos  
+- Aprender boas práticas de arquitetura de software  
 
-📫 Você pode falar comigo pelo meu E-mail <a href="mailto:kelverwt@gmail.com">Kelver Alves</a>
+## 📫 Como me encontrar
+- ✉️ E-mail: kelverwt@gmail.com  
+- 🔗 LinkedIn: [linkedin.com/in/seu-perfil](www.linkedin.com/in/kelver-alves)
 
-</br>
-<a href="https://www.linkedin.com/in/kelver-alves-rodrigues-7b6295bb/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" /><p>www.linkedin.com/in/kelver-alves</p>
+---
+
+⭐ Obrigado por visitar meu perfil! Se curtir algum projeto, fique à vontade para deixar uma estrela ou contribuir.
 
 ##
 <p align="center">

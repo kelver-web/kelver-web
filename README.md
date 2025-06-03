@@ -47,7 +47,7 @@ Sou programador com experiência no desenvolvimento de sistemas web. Tenho inter
 📫 Você pode falar comigo pelo meu E-mail <a href="mailto:kelverwt@gmail.com">Kelver Alves</a>
 
 </br>
-<a href="https://www.linkedin.com/in/kelver-alves-rodrigues-7b6295bb/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+<a href="https://www.linkedin.com/in/kelver-alves-rodrigues-7b6295bb/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" /><p>www.linkedin.com/in/kelver-alves</p>
 
 ##
 <p align="center">

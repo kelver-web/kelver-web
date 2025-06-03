@@ -15,22 +15,22 @@
 
 ## Hello, Devs!!
 
-Tenho 42 anos, moro em Natal/RN sou um intusiasta por programação e café! Sou iniciante no universo da programação, formado em Análise e Desenvolvimento de Sistemas, e em transição de carreira, e quanto mais eu aprendo e passo raiva, mais eu amo toda essa bagaça!
+👋 Olá, eu sou o Kelver Alves
 
+Sou programador com experiência no desenvolvimento de sistemas web. Tenho interesse em backend com Python/Django, APIs REST, e também atuo no frontend com React. Busco sempre escrever código limpo, escalável e bem documentado.
 <p align="center">
   <img src="https://camo.githubusercontent.com/7ff31bf674c5358f243c50ad2d3709af50a98c28e1f478dcc898309b973a4099/68747470733a2f2f73757065722e616272696c2e636f6d2e62722f77702d636f6e74656e742f75706c6f6164732f323031362f30392f73757065725f696d676761746f5f6469676974616e646f5f302e676966" width="350">
 </p>
 
-### 🖥️ Tecnologias e Ferramentas: 
-<img width="300px" align="right" src="https://amicci.com.br/wp-content/themes/amicci/assets/images/desenvolvimento-tecnico-e-inovacao/art-intro-01.png">
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  title = "PYTHON"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title = "DJANGO"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title = "POSTGRESQL"/></code>
+### 🖥️ Tecnologias e Ferramentas:
+   <div>
+    <p>
+      Python, Django, Django REST Framework
+      JavaScript, React, Vite, Bootstrap
+      Git, GitHub, Postman
+      PostgreSQL, SQLite
+    </p>
+   </div>
 </br>
 </br>
 <div display="inline-block">
